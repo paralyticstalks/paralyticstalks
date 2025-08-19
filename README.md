@@ -11,7 +11,7 @@ some repositories may not have much information outside of name, pronouns, and a
 
 <p align="center">
 current repositories (linked here for easier access): <br>
-  <a href="https://github.com/thesunlandictwins/alt.karin">karin</a> | <a href="https://github.com/thesunlandictwins/alt.macaw">macaw</a> | <a href="https://github.com/thesunlandictwins/alt.hourglass">hourglass</a>
+  <a href="https://github.com/thesunlandictwins/alt.karin">karin</a> | <a href="https://github.com/thesunlandictwins/alt.macaw">macaw</a> | <a href="https://github.com/thesunlandictwins/alt.hourglass">hourglass</a> | <a href="https://github.com/thesunlandictwins/alt.bethie">bethie</a>
 </p>
 
 <p align="center">
