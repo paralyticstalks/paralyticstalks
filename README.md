@@ -10,8 +10,8 @@ some repositories may not have much information outside of name, pronouns, and a
 </p>
 
 <p align="center">
-current repositories (linked here for easier access):
-  <a href="https://github.com/thesunlandictwins/alt.karin">@alt.karin</a>
+current repositories (linked here for easier access): <br>
+  <a href="https://github.com/thesunlandictwins/alt.karin">karin</a> |
 </p>
 
 <p align="center">
