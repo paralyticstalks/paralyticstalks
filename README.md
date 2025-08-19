@@ -1,1 +1,15 @@
-whatver
+<p align="center">
+<img src="https://64.media.tumblr.com/d1fd09ecc93de41386dc7646473f98b0/1a25703fecc0bf7d-56/s1280x1920/a361a24ba325c45c174cce5c420f2ffd4b3dd138.gif"/> </br> 
+hi if this acc was linked to our pony then someone who has info here is fronting </br>
+(or has info to be added) (and will be added) </br>
+</p>
+
+<p align="center">
+all repositories with "alt." have info (or will have info)! <br>
+  all pinned repositories are more general things.
+</p>
+
+<p align="center">
+our other accounts <br>
+  <a href="https://github.com/inthelittiewood">@inthelittiewood</a>,  <a href="https://github.com/renchanting">@renchanting</a>,  <a href="https://github.com/hippiecommune">@hippiecommune</a>
+</p>
