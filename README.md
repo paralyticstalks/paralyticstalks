@@ -5,13 +5,13 @@ hi if this acc was linked to our pony then someone who has info here is fronting
 </p>
 
 <p align="center">
-all repositories with "alt." have info (or will have info)! <br>
-  all pinned repositories are more general things.
+some repositories may not have much information outside of name, pronouns, and a byi list! <br>
+  mostly for personal reasons, but also we don't owe you much info.
 </p>
 
 <p align="center">
-some repositories may not have much information outside of name, pronouns, and a byi list! <br>
-  mostly for personal reasons, but also we don't owe you much info.
+current repositories (linked here for easier access):
+  <a href="https://github.com/thesunlandictwins/alt.karin">@alt.karin</a>
 </p>
 
 <p align="center">
