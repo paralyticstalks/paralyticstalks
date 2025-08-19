@@ -10,6 +10,11 @@ all repositories with "alt." have info (or will have info)! <br>
 </p>
 
 <p align="center">
+some repositories may not have much information outside of name, pronouns, and a byi list! <br>
+  mostly for personal reasons, but also we don't owe you much info.
+</p>
+
+<p align="center">
 our other accounts <br>
   <a href="https://github.com/inthelittiewood">@inthelittiewood</a>,  <a href="https://github.com/renchanting">@renchanting</a>,  <a href="https://github.com/hippiecommune">@hippiecommune</a>
 </p>
